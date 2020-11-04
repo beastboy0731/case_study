@@ -1,0 +1,54 @@
+#title {
+    background-color: rgb(52, 136, 52);
+    border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+
+body {
+    background-color: rgb(58, 84, 109);
+}
+
+.Text_image_result {
+        background: #fff8f8;
+        padding: 30px;
+        border-radius: 20px;
+        width: 50%;
+        display: inline-block;
+        box-shadow: 5px 5px 18px grey;
+        background-color: rgb(138, 108, 73);
+}
+
+.img-responsive
+{
+    width: 200px;
+    height: 200px;
+	border-radius: 20px;
+}
+
+.sub_result
+{
+	text-align: center;
+	background: #dedddd;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+hr {
+    width: 100%;
+}
+
+.result
+{
+	text-align: center;
+	background: #dedddd;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
